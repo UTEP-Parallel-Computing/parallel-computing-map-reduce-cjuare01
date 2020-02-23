@@ -30,3 +30,7 @@ The program shall time how long overall operation takes and how long the word co
 The program shall include any necessary instructions to properly run the program 
 
 The assignment shall be submitted through github 
+
+## Execution
+
+To run the code simply use 'python3 mapreduce.py'
